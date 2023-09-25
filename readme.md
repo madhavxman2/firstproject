@@ -81,4 +81,6 @@ fetch(apiUrl)
   });
 
 output :- 
-![Alt text](image.png)
+
+![image](https://github.com/madhavxman2/firstprojectpush/assets/68814428/12c352c8-eab0-4597-8d4e-3e4d708e122f)
+
